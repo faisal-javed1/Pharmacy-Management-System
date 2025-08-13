@@ -61,7 +61,7 @@ A comprehensive Java-based pharmacy management system with MySQL database integr
 
 ### 1. Clone the Repository
 \`\`\`bash
-git clone https://github.com/your-username/pharmacy-management-system.git
+git clone https://github.com/faisal-javed1/pharmacy-management-system.git
 cd pharmacy-management-system
 \`\`\`
 
